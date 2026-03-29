@@ -1,0 +1,1 @@
+This project focuses on performing Exploratory Data Analysis (EDA) on the Flight Price dataset. The main objective was to clean and preprocess an unorganized raw dataset, convert it into a structured format, and prepare it for Machine Learning model building.
